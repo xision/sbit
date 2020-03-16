@@ -1,7 +1,7 @@
 {
-    "name": "SBit",
+    "name": "sbit",
     "version": "2.0.0",
-    "description": "Extension for JH SBit V5.2",
+    "description": "Extension for JH sbit V5.2",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-cn/SBit-strings.json"
+        "_locales/zh-cn/sbit-strings.json"
 
     ],
     "testFiles": [
