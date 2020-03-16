@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-cn/Sbit-strings.json"
+        "_locales/zh-cn/SBit-strings.json"
 
     ],
     "testFiles": [
