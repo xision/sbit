@@ -6,7 +6,7 @@ load dependency
 */
 
 //% color="#ECA40D" weight=20 icon="\uf085"
-namespace SBit {
+namespace sbit {
 
     const PCA9685_ADD = 0x40
     const MODE1 = 0x00
