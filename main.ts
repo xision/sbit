@@ -1,9 +1,3 @@
-﻿/*
-Copyright (C): 2010-2019, JH JH Tech
-modified from liusen
-load dependency
-"SBit": "file:../pxt-Sbit"
-*/
 
 //% color="#ECA40D" weight=20 icon="\uf085"
 namespace sbit {
